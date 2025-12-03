@@ -24,20 +24,17 @@
 
 <img width="520" height="416" alt="image" src="https://github.com/user-attachments/assets/c8e67646-bb9d-4bf3-a4c9-6ba57b0d80f3" />
 
-## Tabulation
-<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/afe24243-f41e-4b77-a647-c2076eb458c3" />
-<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/c2ec119b-5a42-4db8-a5c8-2ccb560abe53" />
+
 
 ## Graph
-<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/074dc109-c182-4a3e-a62a-700a1f406d6e" />
+<img width="693" height="578" alt="image" src="https://github.com/user-attachments/assets/b4d2bfdd-42fb-46bd-b6ea-695711e3e5a8" />
+
 
 
 ## **Result**
 <img width="787" height="63" alt="image" src="https://github.com/user-attachments/assets/96610a01-3638-4c67-8c6f-b3e6d2b1cc80" />
 
-**VOLTAGE GAIN = 6.84 db**
 
-**BANDWITH = 67.32 X 10^-3
 
 
 
