@@ -6,10 +6,11 @@
 
 
 ## ATTACH THE CORRECT CIRCUIT
-![afa36c2e-7f35-4999-9d84-ffa6a7395bd9](https://github.com/user-attachments/assets/5b04f6ba-c4e8-4ec5-a1e7-05f34b5790ef)
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/95bde6f3-4b04-4869-9e1d-24016587cc6b" />
 
 ## GRAPHS
 
-![d2b63944-2584-41fb-b5a2-0d6090f9d567](https://github.com/user-attachments/assets/e1c4032b-6fa2-46b8-a30c-39a71f7efa42)
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/d2af49d2-40f6-4cce-ab7f-6825a4083cd7" />
+
 
 <img width="936" height="122" alt="image" src="https://github.com/user-attachments/assets/2d2e2399-6a9f-49ec-b40c-3c2982d4b82c" />
